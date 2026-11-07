@@ -1,5 +1,6 @@
 Day-1-Super_Mario_Arjuna-Putra
 Nama  : Arjuna Putra Sulistiyo
+Kelas  : TI 1A
 
 Materi day 1 membahas dua hal utama, yaitu Prompt Engineering menggunakan AI dan penggunaan Git/GitHub untuk mengelola proyek serta bekerja secara kolaboratif.
 
